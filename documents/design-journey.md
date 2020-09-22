@@ -35,25 +35,25 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about.
 
-Example: (delete this) My website will be about the Grassroots festival in Trumansburg NY.
+My website will be a personal website to demonstrate my achievements and hobbies!
 
 
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience(s) is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-TODO
+My website is intended for future employers in the field of music, employers in the tech industry, college students involved in clubs that have to do with music and tech, and family/friends who want to keep up with my life.
 
 
 ### Final Content (Milestone 1)
 > Briefly describe the content you plan to include in the final site, and why it's the right content for your audiences.
 
-TODO
+I plan to include videos/recordings of songs I've written, poems I've written (possibly), projects I've created for classes, and information about myself. This is the right content for my audience because it showcases my creative ability and qualifications for employers or people interested in what I've been up to in college.
 
 
 ### Home Page Content (Milestone 1)
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
-TODO
+I will include some pictures and a description of myself. This should be the first thing my audince will see because that will grab their attention and give them some quick information if they are an employer with limited time.
 
 
 ## Information Architecture
