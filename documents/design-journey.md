@@ -41,13 +41,13 @@ My website will be a personal website to demonstrate my achievements and hobbies
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience(s) is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-My website is intended for future employers in the field of music, employers in the tech industry, college students involved in clubs that have to do with music and tech, and family/friends who want to keep up with my life.
+My website is intended for future employers in the field of music, employers in the tech industry, college students involved in clubs that have to do with music and tech, and family/friends who want to keep up with my life in college.
 
 
 ### Final Content (Milestone 1)
 > Briefly describe the content you plan to include in the final site, and why it's the right content for your audiences.
 
-I plan to include videos/recordings of songs I've written, poems I've written (possibly), projects I've created for classes, and information about myself. This is the right content for my audience because it showcases my creative ability and qualifications for employers or people interested in what I've been up to in college.
+I plan to include information about myself, ways to contact me, and a gallery for creative work/projects. This is the right content for my audience because it showcases my creative ability and qualifications for employers and ways to easily get in touch with me.
 
 
 ### Home Page Content (Milestone 1)
@@ -67,19 +67,20 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Audience (Milestone 2)
 > A clearer description of audience: who are they, what are they interested in with respect to this site, and what are the design goals for that audience.
 
-TODO
+The audience is made up of future employers who will be looking at my material and information to hopefully decide to hire me. Thus, they will be looking for an easy way to view my projects and qualifications. Another audience is that of my friends, family members, and colleages, who are simply curious to see my recent accomplishments and projects. For these people, I would take a more creative and simple approach. In terms of design, I would keep it very straightforward and elegant, but still keep a fun/youthful vibe.
 
 ### Organization & Navigation (Milestone 2)
 > A description of how you generated and considered alternatives for the site's content organization and navigation. You are required to include images here of your card sorting for determining the organization of content and the navigation.
 
 > Thoroughly document this process. The _process_ is the important part of this assignment, not the final result.]
 
-TODO
+![Image of Card Sort](cardsort.png)
+I placed all of the content of my site into cards, and then sorted them based on what made the most sense. To me, that was sorting them into creative projects, information about me, and contact info. These three pages will be linked on the homepage, which will simply welcome users to the site. The homepage may also include some photos. There will be links back to the homepage on each additional page.
 
 ### Final Organization and Navigation (Milestone 2)
 > Explain how the final organization of content and navigation is appropriate for your target audiences.
 
-TODO
+The final organization of content and navigation is appropriate because it is split into three simple categories. A user should have no problem navigating to my creative link, if that is what they are seeking. If they are seeking ways to contact me, it will all be in one place. 
 
 
 ## Visual Design
