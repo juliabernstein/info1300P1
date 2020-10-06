@@ -1,0 +1,45 @@
+body{
+  background-color: #303036;
+  color: white;
+  font-family: sans-serif;
+}
+
+nav {
+  font-size: 20px;
+
+}
+
+li {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+nav li {
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+h1 {
+  text-align: center;
+  color: #abdb65;
+  font-size: 50px;
+  padding: 20px;
+  border-color: #abdb65;
+  border-style: inset;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+h2 {
+  font-weight: lighter;
+  text-decoration: underline;
+}
+
+a {
+  color: #abdb65;
+  text-decoration: none;
+}
+
+ul {
+  color: #303036;
+}

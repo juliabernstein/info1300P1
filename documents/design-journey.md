@@ -77,10 +77,13 @@ The audience is made up of future employers who will be looking at my material a
 ![Image of Card Sort](cardsort.png)
 I placed all of the content of my site into cards, and then sorted them based on what made the most sense. To me, that was sorting them into creative projects, information about me, and contact info. These three pages will be linked on the homepage, which will simply welcome users to the site. The homepage may also include some photos. There will be links back to the homepage on each additional page.
 
+![Image of Alternative Card Sort](cardsortAlt.png)
+Here is an image of an alternative card sort I considered, where I considered putting "projects" into its own category, because even though projects are a creative endeavor, I think they could fit in another whole category from my gallery. In the end, I decided I don't have enough material to make a whole new category, so I went back to my original idea of having 3 total categories.
+
 ### Final Organization and Navigation (Milestone 2)
 > Explain how the final organization of content and navigation is appropriate for your target audiences.
 
-The final organization of content and navigation is appropriate because it is split into three simple categories. A user should have no problem navigating to my creative link, if that is what they are seeking. If they are seeking ways to contact me, it will all be in one place. 
+The final organization of content and navigation is appropriate because it is split into three simple categories. A user should have no problem navigating to my creative link, if that is what they are seeking. If they are seeking ways to contact me, it will all be in one place.
 
 
 ## Visual Design
@@ -94,14 +97,16 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Theme Ideas (Milestone 3)
 > Discuss several ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Feel free to include some hand-drawn sketches (not digital drawings, not mock-ups, not wireframes, etc.) here to document your design process.
 
-TODO
+My first theme is a simple, professional theme. This would entail a black or dark grey background with white text, large sans-serif headers, and sans-serif paragraphs, with well spaced sections. The section headers colors would match the pictures on each page
+
+My second theme is a creative yet professional theme. This would include white backgrounds with light, colorful headers, and black paragraph text. The headers would be sans-serif and the paragraphs would be serif. The sections would be spaced out so it looks organized.
 
 ### Theme Design (Milestone 3)
 > Discuss your theme designs: how did you come to them, what are their strengths and weaknesses, how do they fit your overall design goals and audiences?
 
 > Emotion is a big part of design. What emotions where you thinking about or trying to convey in your designs?
 
-TODO
+My first idea was to keep the theme super sleek and simple, to give off the appearance of professionalism and organization. I chose to do dark grey backgrounds with white text for the high contrast and also because of the first impression it would give the audience. In addition, the sans-serif gives off a modern vibe. However, I didn't think that would give off the impression I wanted to my audience. I want them to see the website and know that I am young and creative, so I'm thinking that the theme should be youthful and creative, yet still professional. For this, I would do a white background with headers that use colors that are light (probably pastel), and that match the pictures. They would be in sans-serif so that they appear modern and fun. The paragraphs would be written in a serif font to promote readability and professionalism, and would be written in black so the website isn't too amateur-looking.
 
 
 ## Rationale
