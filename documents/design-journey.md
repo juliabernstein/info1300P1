@@ -6,24 +6,6 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 **Everything, including images, must be visible in Markdown Preview.** If it's not visible in Markdown Preview, then we won't grade it. We won't give you partial credit either. This is your warning.
 
-
-## Markdown Instructions
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning outcome of this course.
-
-The following links are Markdown references:
-- <https://guides.github.com/features/mastering-markdown/>
-- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-
-When writing your Markdown file in Atom. Open the command palette and search for **Markdown Preview Plus: Toggle**. This will open up a panel in Atom where you can preview your formatted Markdown file. **The graders will grade you submission in Markdown Preview. All images must be visible in Markdown Preview.**
-
-This is how your insert images into your Markdown documents:
-
-![this is a text description of the image](example.png)
-
-**DELETE THIS SECTION (and example.png) BEFORE THE FINAL SUBMISSION.**
-
-
 ## Audience & Content
 
 **Make the case for your decisions using concepts from class, as well as other design principles, theories, examples, and cases from outside of class.**
@@ -75,15 +57,15 @@ The audience is made up of future employers who will be looking at my material a
 > Thoroughly document this process. The _process_ is the important part of this assignment, not the final result.]
 
 ![Image of Card Sort](cardsort.png)
-I placed all of the content of my site into cards, and then sorted them based on what made the most sense. To me, that was sorting them into creative projects, information about me, and contact info. These three pages will be linked on the homepage, which will simply welcome users to the site. The homepage may also include some photos. There will be links back to the homepage on each additional page.
+Image of card sort. I placed all of the content of my site into cards, and then sorted them based on what made the most sense. To me, that was sorting them into creative projects, information about me, and contact info. These three pages will be linked on the homepage, which will simply welcome users to the site. The homepage may also include some photos. There will be links back to the homepage on each additional page.
 
 ![Image of Alternative Card Sort](cardsortAlt.png)
-Here is an image of an alternative card sort I considered, where I considered putting "projects" into its own category, because even though projects are a creative endeavor, I think they could fit in another whole category from my gallery. In the end, I decided I don't have enough material to make a whole new category, so I went back to my original idea of having 3 total categories.
+Image of alternate card sort. Here is an image of an alternative card sort I considered, where I considered putting "projects" into its own category, because even though projects are a creative endeavor, I think they could fit in another whole category from my gallery. In the end, I decided I don't have enough material to make a whole new category, so I went back to my original idea of having 3 total categories.
 
 ### Final Organization and Navigation (Milestone 2)
 > Explain how the final organization of content and navigation is appropriate for your target audiences.
 
-The final organization of content and navigation is appropriate because it is split into three simple categories. A user should have no problem navigating to my creative link, if that is what they are seeking. If they are seeking ways to contact me, it will all be in one place.
+The final organization of content and navigation is appropriate because it is split into three simple categories. A user should have no problem navigating to my gallery link, if that is what they are seeking. If they are seeking ways to contact me, it will all be in one place.
 
 
 ## Visual Design
@@ -124,37 +106,52 @@ Your rationale should be a polished version of the earlier explanations.
 
 > You must label each figure and provide an explanation of the sketch.
 
-![schedule page sketch version 1](example.png)
-Example: (delete this) Sketch for Schedule page (version 1). Users can see a calendar of all bands planing in the main panel. I realized that the layout for the schedule may be confusing. I think separate sections for each day will work better for my audience's needs since they can focus on the bands they want to see for that day.
+![Version 1 of CSS Layout](layoutOne.png)
+Sketch of version 1 of CSS layout. Users will be able to see the title of the page (my name) on the left of the header, with the navigation bar on the right of the header. In addition, users will see a picture to the left and a description of the page along with its title on the right.
 
-TODO
+![Version 2 of CSS Layout](layoutTwo.png)
+Sketch of version 2 of CSS layout. Users will be able to see the name above the navigation bar in the header. In addition, users will see the title of the page, with a picture below this title to the left and a description of the page below it to the right.
+
+I ended up going with version 2 because the header design was more natural with regards to the flow of the layout. I also realized that I would need to create flex-boxes within my flex-boxes to properly organize my paragraphs and links within the main content of the website.
+
+![Organization of Main Body](mainBody.png)
+Sketch of the organization of the main body. Here, I implemented a column flex-box in the right hand side of the main body (which is a row flex-box), as stated above.
+
+![Organization of Gallery](gallery.png)
+Sketch of the organization of the gallery page. For the "Gallery" page, I had to implement a column flex-box on the left hand side of the page so that the figures could be better organized. If I were to add a new figure in the future, it would automatically sit below the existing ones, which makes organization much easier in the long run.
+
+I had some issues with the images in my design, because the ratios would not maintain when they were resized, so I had to do some research in order to ultimately come up with a solution, which was simply to set their height and widths to auto. In addition, I had issues with the resizing of the links within the navigation bar, so I had to attempt to organize them in a few different ways before I settled on making each one take up 25% of the nav bar. Finally, with regards to my peer review, I ended up making changes to allow for a consistency of lowercase headers throughout the whole website.
 
 ### Audience (Final Submission)
 > A complete and polished description of the intended audience(s) for your website.
 
-TODO
+The audience for my personal website will be made up of future employers in the field of technology or music who will be looking at the material on my webpage and information about me in order to find out more about me or make a decision whether or not to hire me. This website provides an easy, organzied way to allow them to view my projects and qualifications. Another audience that may view my personal website is one that is made up of my friends, family members, and colleages, who are simply curious with regards to my recent accomplishments and projects. Because these are two seperate audiences, my themes incorporate elements which would cater to both audiences.
 
 ### Design Goals (Final Submission)
 > An explanation of the design goals for that audience, based on your earlier rationales.
 
-TODO
+The goal of my design process was to keep the theme very simple and organized, to allow the viewer's eye to easily navigate the page, while maintaining the appearance of youthfulness and creativity. My goal was for my audience to see my website and know that I am young and creative, yet still professional. To achieve this goal, I used a white background with headers that made use of whitespace and contrasting colors, which I matched with colors within some of the pictures. Thus, I went with a light green theme with subtle purple accents, because these colors convey the creative aspect of my website, while still keeping the theme consistent by bringing the whole page together in a fun way.
+
+I used black, serif fonts for the paragraphs, in order to maintain readability and professionalism, but my headers were in sans-serif fonts to appear more modern and to grab the attention of the viewer. Mixing up the font families gives off the dynamic, flexible appearance that I was trying to achieve. In addition, I wanted there to be a balance of vibrant colors and greyscale, to avoid an amateur-like appearance.
 
 ### Navigation (Final Submission)
 > An explanation of how the final navigation met your goals and why its appropriate for your audience(s).
 
-TODO
+My goal for the navigation was to keep each page as specific as possible, so that everything related could be found in one place. I implemented this goal by grouping each piece of content into related groups (or pages), and then linking these pages in the navigation bar atop the webpage. For example, my navigation bar allows a user to easily find my creative works by clicking on "gallery," a list of ways to contact me in one page (the "contact me" page), a few paragraphs of information on me in the "about me" page, and the homepage, which gives an overview to the website.
+
+The navigation of my website is appropriate for both of my intended audiences. If a future employer views my website, they will be inclined to find out more about my qualifications, so they will click on the "about me" page. Once they have viewed that page, they might choose to view my creative works in the "gallery" page, depending on the job, and depending on their ultimate decision, they could easily click on the "contact me" page to get in touch with me very easily. On the other hand, if a friend, family member, or colleague visits my webpage, they can easily view my recent projects in the "gallery" page, and learn more about me by clicking on "about me." I included pictures on each page to give a personal touch to my website, and this would be appropriate for both audiences, because I want employers to associate a face with my name and qualifications, and I want friends and family to feel connected to me through my presence on the webpage.
 
 ### Organization (Final Submission)
 > An explanation of how the final organization met your goals and why its appropriate for your audience(s).
 
-TODO
+My goal was to keep the website very simple and organized while maintaining a creative appearance, and my use of flex-boxes and div elements enabled me to reach that goal. On any given page, there are at least two flex-boxes to provide the utmost organization for users. The main body is split into two columns, and on most of the pages there is a picture or pictures on the left hand side, and a description of the page on the right hand side, to maintain consistency. The navigation bar is also consistent throughout the whole website, which adds to the simplicity and professionalism. Overall, both of my audiences will find my website very organized, whether they are trying to hire me or just browsing, because I maintained a very simple and consistent organization style.
 
 ### Visual Design (Final Submission)
 > An explanation of how the final design met your goals and why its appropriate for your audience(s).
 
-TODO
+From one look at my website, a user will be able to tell that I am creative yet serious, professional yet youthful, and well balanced. This was my goal going into this project, and I think I achieved it with the overall use of balance throughout the webiste. This balance can be seen in many ways: the balance between the colors and the greyscale, between the serif and sans-serif fonts, and between the serious and creative content. I also think that the use of whitespace is very important to the flow of my website. Both of my intended audiences will find my design to be visually simple yet not too simple that it is boring, ensuring that they get the right impression of me.
 
 ### Self-Reflection (Final Submission)
 > What did you learn from this assignment? What are some of your strengths and weaknesses?
 
-TODO
+A weakness I learned about myself through this process is my desire to use color everywhere. I had to tone it down on multiple occasions to preserve the professionalism of the website. I learned that it is really important to strike a balance between professionalism and creativity in order to give off the right impression to your audience in terms of both your personality and web-making skills. I also learned that a strength of mine is making sure that I do not give up on a certain design flaw until it is completely fixed. I spent a lot of time doing research on how to fix certain issues outlined above, and I think this is indicative of my strength as a web designer. In the beginning, I was afraid of the design element of this project, becuase I have experience with code but none with desing; however, I found it very rewarding in the end when my website came together, and upon reflection, the design came more naturally to me than I had expected.
